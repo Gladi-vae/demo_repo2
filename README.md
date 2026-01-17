@@ -10,4 +10,4 @@ Et encore une fois modif gthub..
 
 encore une fois modif github 2...
 
-le rouge c est bien
+mais le bleu c'est mieux
